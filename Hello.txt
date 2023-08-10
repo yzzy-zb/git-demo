@@ -1,1 +1,2 @@
-Hello hot-fix!
+Hello master!
+Hello hot!
