@@ -1,3 +1,1 @@
-Hello git hot-fix!
-Hello git hot-fix!
-Hello git hot！
+Hello hot-fix!
